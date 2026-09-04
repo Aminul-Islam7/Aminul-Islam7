@@ -40,7 +40,3 @@ I enjoy building clean, useful web tools and experimenting with AI-powered autom
 
 - **National Champion (2025):** Microsoft Office Specialist in MS Word. [certificate ↗](assets/Cert566135815459.pdf)
 - **Campus & Community:** Conducted [technical workshops](https://youtube.com/playlist?list=PL0MThPC4xuXrND4UaPDonPhNInpHji_SV) through the NSU ACM Student Chapter R&D group and built [utility prototype](https://github.com/Aminul-Islam7/nsu-wayfinder.git) for NSU campus systems.
-
-## Featured Projects
-
-Check out the pinned repositories below.
