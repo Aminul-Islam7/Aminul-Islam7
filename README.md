@@ -26,23 +26,23 @@ Connect with me: &nbsp;
 ## Languages And Tools I Work with
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/c/1f2328/f0f6fc" alt="C" title="C" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/1f2328/f0f6fc" alt="C++" title="C++" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/Aminul-Islam7/Aminul-Islam7@main/assets/java.svg" alt="Java" title="Java" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/python/1f2328/f0f6fc" alt="Python" title="Python" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/1f2328/f0f6fc" alt="JavaScript" title="JavaScript" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/1f2328/f0f6fc" alt="TypeScript" title="TypeScript" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/php/1f2328/f0f6fc" alt="PHP" title="PHP" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/html5/1f2328/f0f6fc" alt="HTML5" title="HTML5" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/css/1f2328/f0f6fc" alt="CSS3" title="CSS3" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/sass/1f2328/f0f6fc" alt="Sass" title="Sass" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/1f2328/f0f6fc" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/shadcnui/1f2328/f0f6fc" alt="shadcn/ui" title="shadcn/ui" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/react/1f2328/f0f6fc" alt="React" title="React" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/1f2328/f0f6fc" alt="Next.js" title="Next.js" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/django/1f2328/f0f6fc" alt="Django" title="Django" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/laravel/1f2328/f0f6fc" alt="Laravel" title="Laravel" width="32" height="32" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/1f2328/f0f6fc" alt="MySQL" title="MySQL" width="32" height="32" />
+  <img src="assets/tech/c.svg" alt="C" width="54" height="43" />
+  <img src="assets/tech/cpp.svg" alt="C++" width="54" height="43" />
+  <img src="assets/tech/java.svg" alt="Java" width="54" height="43" />
+  <img src="assets/tech/python.svg" alt="Python" width="54" height="43" />
+  <img src="assets/tech/javascript.svg" alt="JavaScript" width="54" height="43" />
+  <img src="assets/tech/typescript.svg" alt="TypeScript" width="54" height="43" />
+  <img src="assets/tech/php.svg" alt="PHP" width="54" height="43" />
+  <img src="assets/tech/html5.svg" alt="HTML5" width="54" height="43" />
+  <img src="assets/tech/css3.svg" alt="CSS3" width="54" height="43" />
+  <img src="assets/tech/sass.svg" alt="Sass" width="54" height="43" />
+  <img src="assets/tech/tailwind.svg" alt="Tailwind" width="54" height="43" />
+  <img src="assets/tech/shadcnui.svg" alt="shadcn/ui" width="54" height="43" />
+  <img src="assets/tech/react.svg" alt="React" width="54" height="43" />
+  <img src="assets/tech/nextjs.svg" alt="Next.js" width="54" height="43" />
+  <img src="assets/tech/django.svg" alt="Django" width="54" height="43" />
+  <img src="assets/tech/laravel.svg" alt="Laravel" width="54" height="43" />
+  <img src="assets/tech/mysql.svg" alt="MySQL" width="54" height="43" />
 </p>
 
 ## Highlights
