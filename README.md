@@ -18,7 +18,6 @@ Find me on: &nbsp;
 ## What I Work With
 
 <p align="left">
-  <img src="assets/tech/c.svg" alt="C" width="60" height="56" />
   <img src="assets/tech/cpp.svg" alt="C++" width="60" height="56" />
   <img src="assets/tech/java.svg" alt="Java" width="60" height="56" />
   <img src="assets/tech/python.svg" alt="Python" width="60" height="56" />
