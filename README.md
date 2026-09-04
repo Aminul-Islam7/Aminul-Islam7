@@ -32,8 +32,8 @@ I enjoy building clean, useful web tools and experimenting with AI-powered autom
 
 ## A Few Highlights
 
-- **National Champion (2025):** Microsoft Office Specialist in MS Word
-- **Campus & Community:** Conducted technical workshops through the NSU ACM Student Chapter R&D group and built utility prototypes for NSU campus systems.
+- **National Champion (2025):** Microsoft Office Specialist in MS Word ([certificate](assets/Cert566135815459.pdf))
+- **Campus & Community:** Conducted [technical workshops](https://youtube.com/playlist?list=PL0MThPC4xuXrND4UaPDonPhNInpHji_SV) through the NSU ACM Student Chapter R&D group and built [utility prototype](https://github.com/Aminul-Islam7/nsu-wayfinder.git) for NSU campus systems.
 
 ## Featured Projects
 
@@ -42,7 +42,7 @@ Check out the pinned repositories below.
 <br>
 
 <p align="center">
-  <sub>connect with me</sub><br><br>
+  <span>find me on</span><br><br>
   <a href="https://x.com/AminulFardin" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/1f2328/f0f6fc" alt="X" title="X" width="18" height="18" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aminul-islam7" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/Aminul-Islam7/Aminul-Islam7@main/assets/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="18" height="18" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/aminulx64/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/1f2328/f0f6fc" alt="Facebook" title="Facebook" width="18" height="18" /></a>&nbsp;&nbsp;&nbsp;
